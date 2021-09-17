@@ -3,7 +3,7 @@ Section:  R01
 Name:  Foenix Szot
 Email: faszot@mtu.edu
 
-Course Name:
-Section:
-Name:
-Email:
+Course Name:  CS4711
+Section: 
+Name:  Jordan Gunning
+Email:  jcgunnin@mtu.edu
